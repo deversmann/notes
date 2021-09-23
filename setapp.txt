@@ -1,0 +1,7 @@
+Base.app/
+Batteries.app/
+CleanMyMac X.app/
+Home Inventory.app/
+Icon
+Permute.app/
+iStat Menus.app/

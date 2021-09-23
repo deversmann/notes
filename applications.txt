@@ -1,0 +1,52 @@
+Audacity.app/
+BetterSnapTool.app/
+BlueJeans.app/
+Cyberduck.app/
+DJI Assistant 2 For Mavic.app/
+DisplayLink Manager.app/
+DisplayLink Software Uninstaller.app/
+Docker.app/
+Fedora Media Writer.app/
+Firefox.app/
+GIMP.app/
+GitHub Desktop.app/
+Google Chrome.app/
+Google Docs.app/
+Google Drive.app/
+Google Sheets.app/
+Google Slides.app/
+HotKey.app/
+Hue Sync.app/
+Imaging Edge/
+Imaging Edge Desktop.app/
+JWS Helper.app/
+LimeChat.app/
+Managed Software Center.app/
+Microsoft Teams.app/
+Minecraft.app/
+NordVPN IKE.app/
+OBS.app/
+PrusaSlicer.app/
+Raspberry Pi Imager.app/
+Razer Synapse.app/
+Razer macOS.app/
+Red Hat Mac Info.app/
+Red Hat Printer Setup.app/
+RingCentral Meetings.app/
+Safari.app/
+Save to Pocket.app/
+SentinelOne/
+Setapp/
+Setapp.app/
+Stream Deck.app/
+SuperDuper!.app/
+The Unarchiver.app/
+Utilities/
+VNC Viewer.app/
+VirtualBox.app/
+Viscosity.app/
+Visual Studio Code.app/
+Webex.app/
+iMovie.app/
+iTerm.app/
+zoom.us.app/

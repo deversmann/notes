@@ -1,0 +1,5 @@
+DEPNotify.app/
+GrandPerspective.app/
+Nudge.app/
+Uninstall Razer Synapse.app/
+yo.app/
