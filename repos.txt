@@ -1,0 +1,21 @@
+https://github.com/christiannaths/Climacons-Font.git
+* https://github.com/deversmann/ansible-demo-env
+* https://github.com/deversmann/ansible-role-msc.git
+https://github.com/deversmann/deversmann.github.io.git
+https://github.com/deversmann/dotfiles
+https://github.com/deversmann/eversmann.com.git
+* https://github.com/deversmann/goaddr.git
+https://github.com/deversmann/gotemp.git
+* https://github.com/deversmann/otp-gen
+https://github.com/deversmann/podman-box.git
+* https://github.com/deversmann/rhelbox.git
+https://github.com/deversmann/simple-address-book.git
+
+Widgets/
+git@gist.github.com:e0ffa81df3e25171f993b1bc40c91b18.git
+git@gist.github.com:6c5ccb54433bf13fc64273f4706d771b.git
+https://github.com/deversmann/smashing-devbox.git
+https://gist.github.com/deversmann/b6abdc6122ab7c795c08c47608b3c171
+https://github.com/hkraji/weather-widget.git
+git@gist.github.com:f4dee0bb7dfec1d63f6de3338856d5c7.git
+
